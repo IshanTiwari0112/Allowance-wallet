@@ -5,6 +5,7 @@ async function main() {
     await greeter.deployed();
 
     console.log("Greeter deployed to:", greeter.address);
+    console.log('What chain: ', window.ethereum.networkVersion);
 }
 
 main()
