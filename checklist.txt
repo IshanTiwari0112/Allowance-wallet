@@ -1,7 +1,0 @@
-make all functions for smart contract frontend
-adapt smartcontract as needed
-work on website look
-    -MAYBE add animations
-    -add colurs
-    -add logo or design
-work on README
